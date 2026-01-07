@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
-System Health Monitoring Dashboard for Data Center Technician
-Designed for Amazon Data Center Technician role portfolio
+System Health Monitoring Dashboard 
 """
 
 import psutil
