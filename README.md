@@ -162,10 +162,5 @@ MIT License
 ## 👨‍💻 Author
 
 **Nikhil Palli**
-
-## 🙏 Acknowledgments
-
-- Built with [psutil](https://github.com/giampaolo/psutil) library
-- Inspired by system monitoring best practices
 ```
 
