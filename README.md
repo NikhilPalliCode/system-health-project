@@ -146,21 +146,6 @@ README.md                # This documentation
 system_health.log       # Generated log file (not tracked)
 ```
 
-## 💡 Skills Demonstrated
 
-This project showcases:
-- **System Monitoring**: Real-time resource tracking
-- **Python Development**: Clean, modular OOP design
-- **Problem Solving**: Network speed calculation algorithm
-- **Production Readiness**: Logging, error handling, CLI interface
-- **Data Center Relevance**: Similar monitoring concepts used in infrastructure management
-
-## 📄 License
-
-MIT License
-
-## 👨‍💻 Author
-
-**Nikhil Palli**
 ```
 
